@@ -1,0 +1,66 @@
+body {
+    background-color:#101420;
+    font-family: 'Lato', sans-serif;
+}
+
+.bg-light {
+    background-color:#101420 !important;
+}
+
+.fuseicon {
+    max-width: 100px;
+}
+
+.tryfuse {
+    background-color:#101420
+}
+
+.tryfusemobile {
+    max-width: 450px;
+    max-height: 450px;
+}
+
+.fuseimage {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sendlink {
+    padding-top:100px;
+    padding-right:70px;
+    padding-left:20px;
+}
+
+.input-group {
+    align-items: start;
+    width: 75%;
+    padding-bottom: 10px;
+}
+
+h1 {
+    color: #ffffff;
+    padding-bottom:5px;
+    font-size: 60px;
+}
+
+h5 {
+    color: #ff5d06;
+}
+
+.socialmedia {
+    max-width: 200px;
+}
+
+.smicons {
+  padding:10px;
+}
+
+.input-group-append {
+    background-color:#ff5d06;
+
+}
+
+.btn {
+    color: #ffffff;
+}
+
